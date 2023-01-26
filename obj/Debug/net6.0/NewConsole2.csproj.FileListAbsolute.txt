@@ -1,0 +1,15 @@
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\bin\Debug\net6.0\NewConsole2.exe
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\bin\Debug\net6.0\NewConsole2.deps.json
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\bin\Debug\net6.0\NewConsole2.runtimeconfig.json
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\bin\Debug\net6.0\NewConsole2.dll
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\bin\Debug\net6.0\NewConsole2.pdb
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.csproj.AssemblyReference.cache
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.AssemblyInfoInputs.cache
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.AssemblyInfo.cs
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.csproj.CoreCompileInputs.cache
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.dll
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\refint\NewConsole2.dll
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.pdb
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\NewConsole2.genruntimeconfig.cache
+C:\Users\tshav\OneDrive\Рабочий стол\NewConsole2\obj\Debug\net6.0\ref\NewConsole2.dll
